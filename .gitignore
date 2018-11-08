@@ -3,3 +3,5 @@
 ################################################################################
 
 /AsyncDemo/obj
+/.vs/AsyncDemo/v15
+/AsyncDemo/bin/Debug/netcoreapp2.1
